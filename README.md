@@ -1,20 +1,19 @@
 # Hi, I'm Hoseki 👋
 
 ## About me
-- 🎓 Year 3 IT Student
-- 📱 Flutter Developer
-- ⚙️ Backend with Go
-- 🇻🇳 Vietnam
+- 🇻🇳 from Viet Nam.
+- 🎓 Year III IT Student.
+- 📱 On the way to become a specialist at Mobile Development.
+- 💭 Dreaming guy, have many favorites.
+- 📺 Like to watching Anime, Cartoon and Technology News.
 
 ## Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
+![Swift](https://img.shields.io/bagde/Swift-00BDAD?logo=swift)
 
 ## Projects
-- 📖 Catholic Lectionary App
-- 🏫 School CFS Platform
+- 📖 Lectio
+- 🏫 School local CFS 
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseki)
