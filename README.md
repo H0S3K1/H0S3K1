@@ -11,7 +11,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
-![Swift](https://img.shields.io/bagde/Swift-00BDAD?logo=swift)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 ## Projects
 - 📖 Lectio
