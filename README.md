@@ -8,30 +8,26 @@
 - 🇻🇳 From **Viet Nam**.
 - 🎓 **Year III IT Student**.
 - 📱 Currently on the journey to become a **Mobile Development specialist**.
-- 🛠️ I enjoy turning random ideas into real, usable products.
-- 💭 A dreamer with way too many interests and ideas.
-- 🎬 Into **Anime, Cartoons, and Technology**.
-- 🎶 Into a mix of **Lofi, EDM, Anime, Nightcore, Hip-hop…**. 
-- ☕ Probably somewhere between writing code and wondering 💭 why the code doesn't work.
+- 🛠️ Enjoy turning random ideas into real, usable products.
 
 ## ⚡ Tech Stack
 
-### 🗒️ Web
+### 🗒️ Web (Learning)
 
-- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) Web frontend library.
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) React-based full-stack web framework.
+- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) My most language for web frontend library.
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) A cool React-based full-stack web framework.
 
 ### 📱 Mobile
 
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) Main programming language for Flutter development.
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) Cross-platform mobile framework.
-- ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) Native language for Apple's ecosystem.
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) Main cross-platform mobile framework.
+- ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) Learning native language for Apple's ecosystem.
 
 ### ⚙️ Backend & Database
 
-- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) Main backend language.
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) BaaS / NoSQL database service.
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) SQL relational database.
+- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) Main backend language for cheap, speed and performance system / server.
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) A service of Google works as BaaS / NoSQL database service.
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) A strongest and most popular SQL relational database.
 
 ## 🚀 Projects
 
@@ -67,7 +63,13 @@ A local anonymous confession and community platform designed for university stud
 > 
 > 🎯 Become a **Mobile Development Specialist** and **Software Architect**.
 
----
+## ✨ Favorites
 
-⭐ *Thanks for stopping by.*
+> 💭 A dreamer with way too many interests and ideas.
+> 🎬 Into **Anime, Cartoons, and Technology**.
+> 🎶 Into a mix of **Lofi, EDM, Anime, Nightcore, Hip-hop…**. 
+> ☕ Probably somewhere between writing code and wondering 💭 why the code doesn't work.
+
+---
+### ⭐ *Thanks for stopping by.* ⭐️
 
