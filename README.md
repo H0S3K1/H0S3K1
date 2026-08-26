@@ -14,8 +14,8 @@
 
 ### 🗒️ Web (Learning)
 
-- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) My most language for web frontend library.
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) A cool React-based full-stack web framework.
+- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) My main language for web frontend development.
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) A React-based full-stack web framework.
 
 ### 📱 Mobile
 
@@ -25,9 +25,9 @@
 
 ### ⚙️ Backend & Database
 
-- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) Main backend language for cheap, speed and performance system / server.
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) A service of Google works as BaaS / NoSQL database service.
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) A strongest and most popular SQL relational database.
+- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) Main backend language for simplicity, effeciency and performance system.
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) Google service providing BaaS / NoSQL database service.
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) Open-source relational database system.
 
 ## 🚀 Projects
 
