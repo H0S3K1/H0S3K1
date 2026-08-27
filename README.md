@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./A286FF67-E554-41BE-9D39-871DA23AFB52_1_201_a.jpeg" width="100%" />
+<img src="./A286FF67-E554-41BE-9D39-871DA23AFB52_1_201_a.jpeg" width="75%" />
 
 # Hi, I'm Hoseki 👋
 
@@ -8,8 +8,7 @@
 
 *Building things, breaking things, and figuring out why they broke.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Turning+random+ideas+into+real+products;Breaking+things+to+understand+them;Always+learning%2C+always+building" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Turning+random+ideas+into+real+products+%F0%9F%9A%80;Breaking+things+to+understand+them+%F0%9F%92%AD;Always+learning+%F0%9F%93%9A%2C+always+building+%F0%9F%92%BB;Solo+building%2C+one+commit+at+a+time+%E2%9A%99%EF%B8%8F;Curious+mind%2C+endless+debugging+%F0%9F%90%9B" alt="Typing SVG" /> </div></div>
 
 ---
 
