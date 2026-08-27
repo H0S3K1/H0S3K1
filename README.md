@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./A286FF67-E554-41BE-9D39-871DA23AFB52_1_201_a.jpeg" width="100%" style="border-radius: 24px;" />
+<img src="./A286FF67-E554-41BE-9D39-871DA23AFB52_1_201_a.jpeg" width="100%" />
 
 # Hi, I'm Hoseki 👋
 
@@ -8,8 +8,7 @@
 
 *Building things, breaking things, and figuring out why they broke.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=02569B&center=true&vCenter=true&width=800&lines=Turning+random+ideas+into+real+products;80%25+AI-generated+code%2C+100%25+architectural+decisions;Currently+shipping+Lectio+%F0%9F%93%96" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Turning+random+ideas+into+real+products;Breaking+things+to+understand+them;Always+learning%2C+always+building" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,7 +19,6 @@
 - 🎓 **Year III IT Student**
 - 📱 On the journey to become a **Mobile Development Specialist**
 - 🛠️ Enjoy turning random ideas into real, usable products
-- 🎯 Currently building **Lectio**, a Catholic lectionary app, solo — from architecture to App Store release
 
 ---
 
@@ -50,21 +48,32 @@
 
 ---
 
-## 🚀 Featured Projects
-###  [Lectio](#) — Catholic Liturgical & Lectionary Companion 
-A solo-built mobile app bringing daily Mass readings and Scripture closer to the Vietnamese Catholic community, especially younger users.
+## 🚀 Projects
 
-- 📅 Daily readings synced to the liturgical calendar, plus the 4 Gospels & 73 Catholic Bible stories
-- 🧠 AI-generated QnA trivia (Gemini Flash) with streaks & leaderboards
-- 📱 iOS/Android home widgets, offline mode via ObjectBox
-- 🏗️ Go backend, Modular Monolith architecture, self-authored UUIDv7 key generator & Liturgical Color Engine
-- 🔐 Custom JWT auth with silent refresh + Google/Apple OAuth
-- 🎯 Targeting App Store & Play Store release — September 2026
+<table>
+<tr>
+<td width="100"><img src="./lectio_icon.webp" width="80" /></td>
+<td>
 
-`Flutter` `Go` `PostgreSQL` `Riverpod` `Supabase` `ObjectBox`
+**📖 Lectio — Catholic Liturgical & Lectionary Companion**
 
-### 🏫 School Local CFS
+A solo-built mobile app bringing daily Mass readings and Scripture closer to the Vietnamese Catholic community, especially younger users. Daily readings synced to the liturgical calendar, AI-generated QnA trivia with streaks & leaderboards, offline mode, and home widgets.
+
+`Flutter` `Go` `PostgreSQL` `Riverpod` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="100"><img src="./cfs_icon.webp" width="80" /></td>
+<td>
+
+**🏫 School Local CFS**
+
 An anonymous confession and community platform built for university students to connect and share safely.
+
+</td>
+</tr>
+</table>
 
 ---
 
