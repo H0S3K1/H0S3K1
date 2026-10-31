@@ -60,20 +60,6 @@ A solo-built mobile app bringing daily Mass readings and Scripture closer to the
 
 `Flutter` `Go` `PostgreSQL` `Riverpod` `Supabase`
 
-</td>
-</tr>
-<tr>
-<td width="100"><img src="./cfs_icon.webp" width="80" /></td>
-<td>
-
-**🏫 School Local CFS**
-
-An anonymous confession and community platform built for university students to connect and share safely.
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🌱 Currently Learning
