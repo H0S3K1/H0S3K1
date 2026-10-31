@@ -59,6 +59,9 @@
 A solo-built mobile app bringing daily Mass readings and Scripture closer to the Vietnamese Catholic community, especially younger users. Daily readings synced to the liturgical calendar, AI-generated QnA trivia with streaks & leaderboards, offline mode, and home widgets.
 
 `Flutter` `Go` `PostgreSQL` `Riverpod` `Supabase`
+</td>
+</tr>
+</table>
 
 ---
 
